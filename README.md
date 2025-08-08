@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif_link_here" alt="Welcome GIF" width="600"/>
+  <img width="3780" height="1110" alt="Image" src="https://github.com/user-attachments/assets/f9be7f04-8d87-4068-bbde-ef5b9133c5e1" />
 </p>
 
 
@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <img src="gif_link_here" alt="end gif" width="600"/>
+  <img width="3780" height="453" alt="Image" src="https://github.com/user-attachments/assets/f44f81b1-92a3-4ace-b93b-ebe2ceedc3c8" />
 </p>
