@@ -2,13 +2,16 @@
   <img width="3780" height="1110" alt="Image" src="https://github.com/user-attachments/assets/f9be7f04-8d87-4068-bbde-ef5b9133c5e1" />
 </p>
 
-
 ## 💫 About Me
+
 🎓 **BSIS Student** passionate about crafting intuitive and beautiful user experiences  
 🎨 Exploring **UI/UX design** principles to make design speak louder than words  
 💻 Expanding skills in **coding** to turn creative ideas into interactive realities  
 🌱 Sharpening my skills in **design, prototyping, and development**  
+
 ✨ **Goal:** Blend design and code to create seamless user experiences  
+
+
 
 
 ## 🌐 Socials
