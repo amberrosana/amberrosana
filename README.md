@@ -1,18 +1,30 @@
 <p align="center">
-  <img width="3780" height="1110" alt="Image" src="https://github.com/user-attachments/assets/f9be7f04-8d87-4068-bbde-ef5b9133c5e1" />
+  <img width="1200" alt="Header Image" src="https://github.com/user-attachments/assets/f9be7f04-8d87-4068-bbde-ef5b9133c5e1" />
 </p>
 
-## 💫 About Me
+<h1 align="center">
+  <img alt="header" src="https://typograssy.deno.dev/api?text=Passion%20Purpose%20Progress%20&&l0=404040&bg=000000&frame=000000&frame=none&comment=">
+</h1>
 
+## 💫 About Me
+🧠 Curious mind exploring the world of UI/UX design and interactive coding  
 🎓 **BSIS Student** passionate about crafting intuitive and beautiful user experiences  
-🎨 Exploring **UI/UX design** principles to make design speak louder than words  
+🎨 Exploring **UI/UX design principles** to make design speak louder than words  
 💻 Expanding skills in **coding** to turn creative ideas into interactive realities  
 🌱 Sharpening my skills in **design, prototyping, and development**  
 
 ✨ **Goal:** Blend design and code to create seamless user experiences  
 
+---
 
+## 🔭 Currently Exploring
+- UI/UX design in Figma 
+- Wireframing & prototyping  
+- Front-end development with React  
+- Interactive UI components
+- Best practices for user-centered design
 
+---
 
 ## 🌐 Socials
 <p align="center">
@@ -22,6 +34,7 @@
   <a href="https://www.instagram.com/ambe.r.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
+---
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -37,6 +50,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -48,6 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberrosana&theme=material-palenight&hide_border=true&layout=compact" height="165"/>
 </p>
 
+---
 
 ## 🏆 Achievements
 <p align="center">
@@ -55,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img width="3780" height="453" alt="Image" src="https://github.com/user-attachments/assets/f44f81b1-92a3-4ace-b93b-ebe2ceedc3c8" />
+  <img width="1200" alt="Footer Image" src="https://github.com/user-attachments/assets/f44f81b1-92a3-4ace-b93b-ebe2ceedc3c8" />
 </p>
