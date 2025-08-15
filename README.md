@@ -26,6 +26,25 @@
 
 ---
 
+## 🎨 UI/UX & Figma Work
+
+<p align="center">
+  <a href="https://www.figma.com/proto/41BLqX2m6mY0zCOTAMQl4n/Tastewise---HCI?page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&scaling=contain&content-scaling=fixed&t=Cfm0Fcuky7MhXnbk-1">
+  <img width="1177" height="836" alt="Image" src="https://github.com/user-attachments/assets/aedbd546-8d2e-4515-aa03-84fe4223e695" />  </a>
+  <br>
+  <strong>Tastewise</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.figma.com/proto/ePzdNYDOUc80DFZByv9bit/PRACTICAL_ROSANA_BSIS2?page-id=1%3A2&node-id=1-7&p=f&m=draw&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A7&t=o16mlE8YRKMCPoIH-1">
+  <img width="520" height="897" alt="Image" src="https://github.com/user-attachments/assets/f140c4a8-308b-47b2-89a2-236f655f62fa" />
+  </a>
+  <br>
+  <strong>NyomNyan</strong>
+</p>
+
+---
+
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.facebook.com/amberprincess.rosana/"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"></a>
