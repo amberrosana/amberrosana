@@ -83,11 +83,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amberrosana"/>
-</p>
-
 <p align="center">
   <img width="1200" alt="Footer Image" src="https://github.com/user-attachments/assets/f44f81b1-92a3-4ace-b93b-ebe2ceedc3c8" />
 </p>
