@@ -50,7 +50,7 @@
   <a href="https://www.facebook.com/amberprincess.rosana/"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:amberprincessrosana05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amber-rosana-9b7004301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/ambe.r.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/amber_rosana"><img src="https://img.shields.io/badge/-Twitter-black?logo=x&style=for-the-badge&logoColor=white"></a>
 </p>
 
 ---
@@ -80,8 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberrosana&theme=material-palenight&hide_border=true&layout=compact" height="165"/>
 </p>
-
----
 
 <p align="center">
   <img width="1200" alt="Footer Image" src="https://github.com/user-attachments/assets/f44f81b1-92a3-4ace-b93b-ebe2ceedc3c8" />
