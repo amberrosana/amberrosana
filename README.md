@@ -85,7 +85,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amberrosana&theme=dracula&no-frame=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amberrosana"/>
 </p>
 
 <p align="center">
